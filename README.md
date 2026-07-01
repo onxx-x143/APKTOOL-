@@ -5,6 +5,9 @@ Automatically installs all dependencies, displays a **stunning red ASCII banner*
 
 ---
 
+#insta
+URL https://www.instagram.com/_insrnx_?igsh=MTg0bTVyZTVqOXNhbQ==
+
 ## ✨ Features
 
 - ✅ **Full V1+V2+V3 signing** using `apksigner`
