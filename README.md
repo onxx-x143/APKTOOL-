@@ -1,6 +1,13 @@
 # 🔥 APK Signer + Protector Tool v3.1
 
-**Termux‑ready Python script** that signs any APK with **V1, V2 & V3** signatures, adds **code‑hiding protection**, and lets you save the output to **any folder** (including `/sdcard/Download` for MT Manager).  
+**Termux‑ready Python script** that signs any APK with **V1, V2 & V3** signatures, adds 
+## ❇️Termux install 
+```
+git clone https://github.com/onxx-x143/APKTOOL-.git
+cd APKTOOL
+
+
+**code‑hiding protection**, and lets you save the output to **any folder** (including `/sdcard/Download` for MT Manager).  
 Automatically installs all dependencies, displays a **stunning red ASCII banner**, and redirects to the creator’s GitHub profile on startup.
 
 ---
