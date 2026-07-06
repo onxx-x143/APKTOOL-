@@ -16,9 +16,8 @@ curl -L -o nxz.py https://raw.githubusercontent.com/onxx-x143/APKTOOL/main/nxz.p
 
 ## Linux 💻
 ```
-sudo apt update sudo apt upgrade 
+sudo apt update && sudo apt install python3 -y 
 pip install colorama requests
-termux-setup-storage
 python3 nxz.py
 ```
 **code‑hiding protection**, and lets you save the output to **any folder** (including `/sdcard/Download` for MT Manager).  
