@@ -5,15 +5,34 @@
 ```
 git clone https://github.com/onxx-x143/APKTOOL-.git
 cd APKTOOL
+chmod +x nxz.py
+python3 nxz.py
+```
 
+## 💥Direct install
+```
+curl -L -o nxz.py https://raw.githubusercontent.com/onxx-x143/APKTOOL/main/nxz.py && python nxz.py
+```
 
+## Linux 💻
+```
+sudo apt update sudo apt upgrade 
+pip install colorama requests
+termux-setup-storage
+python3 nxz.py
+```
 **code‑hiding protection**, and lets you save the output to **any folder** (including `/sdcard/Download` for MT Manager).  
 Automatically installs all dependencies, displays a **stunning red ASCII banner**, and redirects to the creator’s GitHub profile on startup.
 
 ---
 
-#insta
-URL https://www.instagram.com/_insrnx_?igsh=MTg0bTVyZTVqOXNhbQ==
+## Feedback
+by onxx-x143 ❇️
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Now-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_insrnx_)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hari.x145)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/harijadhavai)
 
 ## ✨ Features
 
