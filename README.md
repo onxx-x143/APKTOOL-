@@ -11,7 +11,7 @@ python3 nxz.py
 
 ## 💥Direct install
 ```
-curl -L -o nxz.py https://raw.githubusercontent.com/onxx-x143/APKTOOL/main/nxz.py && python nxz.py
+curl -L -o nxz.py https://raw.githubusercontent.com/onxx-x143/APKTOOL-/main/nxz.py && python nxz.py
 ```
 
 ## Linux 💻
